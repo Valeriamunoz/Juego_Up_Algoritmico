@@ -1,0 +1,11 @@
+Juego_Up_AlgoritmicoUp nace, porque quería hacer un juego que no fuera horizontal tipo Mario. 
+Cuando lo empecé a hacer quería que fuera un laberinto, pero me pareció muy simple, entonces le 
+agregue los dulces, le puse vidas, cree condiciones para que volviera a empezar. Todo con una 
+temática muy rosadita y dulcera. En cuanto a lo técnico, use dist para hacer las paredes y aproveché 
+que la condición se hacia hasta el final del Frame por lo que quedaron paredes invisibles que quitan 
+puntos y hacen más difícil el juego, también use dist para poner puntos aleatorios que devolvieran al 
+oso al inicio. Para hacer las transiciones de los estados use if, condicionando ciertas acciones y botones 
+para lograr las transiciones fluidas. En cuanto a los dulces, al principio lo hice con un void atrapado para 
+que los dulces desaparecieran cuando el osito los tocara, pero al hacer esto solo sumaban ciertos puntos, por 
+lo que preferí dejarlos fijos, para que las personas puedan volver a ellos cuando necesiten sumar. 
+También hice la tabla del juego y por último amenicé con música.  
